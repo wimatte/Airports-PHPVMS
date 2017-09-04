@@ -1,6 +1,6 @@
-﻿Banco de dados com 52163 Aeroportos. Arquivo feto para ser usado no PHPVMS
+﻿Banco de dados com 52163 Aeroportos. Arquivo feito para ser usado no PHPVMS
 --------------------------------------------------------------------------------------------------
-Database with 52163 Airports. Fetus file to be used in PHPVMS
+Database with 52163 Airports. File made to be used in PHPVMS
 
 --------------------------------------------------------------------------------------------------
 INSTALAÇÃO
